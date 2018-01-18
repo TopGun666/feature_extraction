@@ -1,3 +1,8 @@
+build
+*.DS*
+*.status
+*.user
+
 # Prerequisites
 *.d
 
